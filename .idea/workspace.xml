@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74cb5522-5e05-4266-a176-64018b77bcf9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p03_nitem.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p03_nitem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p04_nlargest.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p04_nlargest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p05_priority_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p05_priority_queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p06_multidict.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p06_multidict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p07_ordered_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p07_ordered_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p08_calculate_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p08_calculate_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p09_dict_common.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p09_dict_common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p10_remove_duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p10_remove_duplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p11_naming_slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p11_naming_slice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p12_mostfreq_items.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p12_mostfreq_items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p13_sort_dictlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p13_sort_dictlist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p14_sort_nocompare.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p14_sort_nocompare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p15_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p15_group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p16_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p16_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p17_subdict.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p17_subdict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p18_nameseq.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p18_nameseq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p19_trans_reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p19_trans_reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p20_combine_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p20_combine_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p01_splitstr.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p01_splitstr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p02_str_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p02_str_start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p03_unix_match.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p03_unix_match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p04_match_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p04_match_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p05_search_replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p05_search_replace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p06_case_insensitive.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p06_case_insensitive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p07_shortest_match.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p07_shortest_match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p08_multiline_match.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p08_multiline_match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p09_normal_unicode.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p09_normal_unicode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p10_re_unicode.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p10_re_unicode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p11_strip.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p11_strip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p12_translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p12_translate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p13_align_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p13_align_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p14_join_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p14_join_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p15_var_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p15_var_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p16_textwrap.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p16_textwrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p17_html_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p17_html_xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p18_tokenize.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p18_tokenize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p19_descent_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p19_descent_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c02/p20_byte_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c02/p20_byte_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p01_round.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p01_round.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p02_accurate_decimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p02_accurate_decimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p03_format_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p03_format_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p04_bin_octal.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p04_bin_octal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p05_int_bytes.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p05_int_bytes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p06_complex.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p06_complex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p07_inf_nan.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p07_inf_nan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p08_fraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p08_fraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p09_array_numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p09_array_numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p10_matrix_linear.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p10_matrix_linear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p11_random_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p11_random_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p12_datatime.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p12_datatime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p13_last_friday.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p13_last_friday.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p14_month_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p14_month_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p15_str_datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p15_str_datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c03/p16_timezone.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c03/p16_timezone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p01_manual_iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p01_manual_iterator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p02_delegate_iter.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p02_delegate_iter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p03_generator_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p03_generator_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p04_iterator_protocol.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p04_iterator_protocol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p05_reverse_iterate.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p05_reverse_iterate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p06_generator_extrastate.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p06_generator_extrastate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p07_iterator_slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p07_iterator_slice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p08_skip_iterable.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p08_skip_iterable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p09_iter_permutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p09_iter_permutation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p10_iterate_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p10_iterate_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p11_iterate_simultaneous.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p11_iterate_simultaneous.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p12_iterate_separate.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p12_iterate_separate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p13_process_pipline.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p13_process_pipline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p14_flatten_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p14_flatten_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p15_merge_sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p15_merge_sorted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c04/p16_iterate_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c04/p16_iterate_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p01_rw_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p01_rw_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p02_print_tofile.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p02_print_tofile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p03_print_sepend.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p03_print_sepend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p04_rw_binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p04_rw_binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p05_write_notexist.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p05_write_notexist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p06_string_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p06_string_io.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p07_gzip_bz2.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p07_gzip_bz2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p08_iterate_fixedsize.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p08_iterate_fixedsize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p09_read_tobuffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p09_read_tobuffer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p10_memery_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p10_memery_mapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p11_pathnames.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p11_pathnames.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p12_file_existence.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p12_file_existence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p13_dir_listfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p13_dir_listfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p14_bypass_encode.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p14_bypass_encode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p15_print_badfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p15_print_badfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p16_change_opencode.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p16_change_opencode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p17_bytes_tofile.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p17_bytes_tofile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p18_file_descriptor.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p18_file_descriptor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p19_temp_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p19_temp_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p20_serial_ports.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p20_serial_ports.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c05/p21_serialize_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c05/p21_serialize_object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p01_rw_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p01_rw_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p02_rw_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p02_rw_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p03_simple_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p03_simple_xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p04_huge_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p04_huge_xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p05_dict_toxml.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p05_dict_toxml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p06_rw_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p06_rw_xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p07_namespace_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p07_namespace_xml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p08_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p08_database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p09_codec_hex.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p09_codec_hex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p10_codec_base64.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p10_codec_base64.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p11_rw_barray.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p11_rw_barray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/p12_var_binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/p12_var_binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/pred.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/pred.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c06/stocks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c06/stocks.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c07/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c07/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c07/p02_keyarg_only.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c07/p02_keyarg_only.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c07/p03_func_annotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c07/p03_func_annotate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c07/p05_default_argument.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c07/p05_default_argument.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c07/p06_anony_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c07/p06_anony_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c07/p08_partial.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c07/p08_partial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c07/p09_class_to_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c07/p09_class_to_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c07/p10_callback.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c07/p10_callback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c07/p11_inline_callback.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c07/p11_inline_callback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c07/p12_closure_access.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c07/p12_closure_access.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p01_str_represent.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p01_str_represent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p02_custom_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p02_custom_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p03_context_protocol.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p03_context_protocol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p04_slots.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p04_slots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p05_encapsulate_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p05_encapsulate_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p06_managed_attribute.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p06_managed_attribute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p07_super_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p07_super_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p08_extend_property.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p08_extend_property.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p09_descriptor.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p09_descriptor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p10_lazy_property.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p10_lazy_property.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p11_simplify_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p11_simplify_init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p12_abstract_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p12_abstract_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p13_type_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p13_type_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p14_custom_container.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p14_custom_container.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p15_delegate_attribute.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p15_delegate_attribute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p16_more_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p16_more_constructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p17_without_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p17_without_init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p18_mixin_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p18_mixin_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p19_stateful_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p19_stateful_object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p20_invoke_bystr.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p20_invoke_bystr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p21_vistor_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p21_vistor_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p22_vistor_norecursiion.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p22_vistor_norecursiion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p23_weakref.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p23_weakref.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p24_class_compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p24_class_compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c08/p25_cached_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c08/p25_cached_objects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p01_wrap_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p01_wrap_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p02_preserve_metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p02_preserve_metadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p03_unwrap_decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p03_unwrap_decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p04_decorator_argument.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p04_decorator_argument.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p05_adjust_attribute.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p05_adjust_attribute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p06_optarg_decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p06_optarg_decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p07_typecheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p07_typecheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p08_inclass_decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p08_inclass_decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p09_class_decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p09_class_decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p10_static_decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p10_static_decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p11_add_argument.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p11_add_argument.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p12_patch_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p12_patch_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p13_instance_create.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p13_instance_create.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p14_attribute_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p14_attribute_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p15_meta_optional_arg.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p15_meta_optional_arg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p16_enforce_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p16_enforce_args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p17_code_convention.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p17_code_convention.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p18_define_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p18_define_classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p19_define_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p19_define_init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p20_multiple_dispatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p20_multiple_dispatch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p21_avoid_repetitive.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p21_avoid_repetitive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p22_context_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p22_context_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p23_local_side.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p23_local_side.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p24_analyze_source.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p24_analyze_source.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c09/p25_disassemble_bytecode.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c09/p25_disassemble_bytecode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c10/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c10/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c10/p02_control_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c10/p02_control_import.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c10/p12_import_patch.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c10/p12_import_patch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p01_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p01_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p02_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p02_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p03_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p03_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p04_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p04_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p05_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p05_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p06_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p06_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p07_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p07_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p08_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p08_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p09_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p09_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p10_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p10_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p11_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p11_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p12_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p12_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c11/p13_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c11/p13_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p01_start_stop_thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p01_start_stop_thread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p02_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p02_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p03_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p03_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p04_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p04_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p05_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p05_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p06_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p06_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p07_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p07_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p08_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p08_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p09_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p09_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p10_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p10_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p11_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p11_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p12_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p12_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p13_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p13_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c12/p14_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c12/p14_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p01_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p01_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p02_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p02_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p03_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p03_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p04_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p04_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p05_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p05_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p06_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p06_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p07_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p07_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p08_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p08_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p09_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p09_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p10_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p10_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p11_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p11_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p12_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p12_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p13_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p13_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p14_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p14_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c13/p15_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c13/p15_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p01_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p01_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p02_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p02_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p03_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p03_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p04_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p04_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p05_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p05_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p06_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p06_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p07_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p07_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p08_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p08_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p09_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p09_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p10_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p10_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p11_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p11_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p12_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p12_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p13_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p13_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c14/p14_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c14/p14_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p01_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p01_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p02_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p02_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p03_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p03_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p04_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p04_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p05_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p05_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p06_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p06_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p07_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p07_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p08_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p08_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p09_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p09_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p10_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p10_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p11_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p11_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p12_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p12_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p13_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p13_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p14_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p14_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p15_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p15_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p16_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p16_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p17_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p17_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p18_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p18_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p19_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p19_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p20_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p20_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c15/p21_.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c15/p21_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/somefile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/somefile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exts/chinese_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/exts/chinese_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exts/main.dic" beforeDir="false" afterPath="$PROJECT_DIR$/exts/main.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exts/smallseg.py" beforeDir="false" afterPath="$PROJECT_DIR$/exts/smallseg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exts/suffix.dic" beforeDir="false" afterPath="$PROJECT_DIR$/exts/suffix.dic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exts/zh.py" beforeDir="false" afterPath="$PROJECT_DIR$/exts/zh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/make.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qcode.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements_.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements_.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/aboutme.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p01_unpack_sequence_into_separate_variables.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p02_unpack_elements_from_iterables.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p03_keep_last_n_items.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p04_find_largest_or_smallest_n_items.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p05_implement_a_priority_queue.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p06_map_keys_to_multiple_values_in_dict.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p07_keep_dict_in_order.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p08_calculating_with_dict.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p09_find_commonalities_in_dicts.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p10_remove_duplicates_from_seq_order.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p11_naming_slice.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p12_determine_most_freqently_items_in_seq.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p13_sort_list_of_dicts_by_key.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p14_sort_objects_without_compare_support.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p15_group_records_based_on_field.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p16_filter_sequence_elements.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p17_extract_subset_of_dict.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p18_map_names_to_sequence_elements.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p19_transform_and_reduce_data_same_time.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c01/p20_combine_multiple_map_to_single_map.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p01_split_string_on_multiple_delimiters.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p02_match_text_at_start_end.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p03_match_strings_with_shell_wildcard.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p04_match_and_search_text.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p05_search_and_replace_text.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p06_search_replace_case_insensitive.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p07_specify_regexp_for_shortest_match.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p08_regexp_for_multiline_partterns.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p09_normalize_unicode_text_to_regexp.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p10_work_with_unicode_in_regexp.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p11_strip_unwanted_characters.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p12_sanitizing_clean_up_text.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p13_aligning_text_strings.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p14_combine_and_concatenate_strings.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p15_interpolating_variables_in_strings.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p16_reformat_text_to_fixed_number_columns.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p17_handle_html_xml_in_text.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p18_tokenizing_text.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p19_writing_recursive_descent_parser.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c02/p20_perform_text_operations_on_byte_string.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p01_round_number.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p02_accurate_decimal_calculations.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p03_format_numbers_for_output.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p04_binary_octal_hexadecimal_int.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p05_pack_unpack_large_int_from_bytes.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p06_complex_math.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p07_infinity_and_nan.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p08_calculating_with_fractions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p09_calculating_with_large_num_arrays.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p10_matrix_and_linear_algebra_calculation.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p11_pick_things_at_random.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p12_convert_days_to_seconds_and_others.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p13_determine_last_friday_date.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p14_date_range_for_current_month.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p15_convert_strings_into_datetimes.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c03/p16_manipulate_dates_involving_timezone.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p01_manually_consuming_iterator.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p02_delegating_iteration.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p03_create_new_iteration_with_generators.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p04_implement_iterator_protocol.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p05_iterating_in_reverse.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p06_define_generator_func_with_extra_state.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p07_taking_slice_of_iterator.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p08_skip_first_part_of_iterable.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p09_iterate_over_combination_or_permutation.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p10_iterate_over_index_value_pairs_of_sequence.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p11_iterate_over_multiple_sequences_simultaneously.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p12_iterate_on_items_in_separate_containers.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p13_create_data_processing_pipelines.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p14_flattening_nested_sequence.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p15_iterate_in_sorted_order_over_merged_sorted_iterables.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c04/p16_replace_infinite_while_loops_with_iterator.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p01_read_write_text_data.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p02_printing_to_file.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p03_print_with_different_separator_or_line_ending.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p04_read_write_binary_data.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p05_write_to_file_not_exist.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p06_io_operations_on_string.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p07_read_write_compressed_datafiles.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p08_iterate_over_fixed_sized_records.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p09_read_binary_data_into_mutable_buffer.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p10_memory_mapping_binary_files.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p11_manipulating_pathnames.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p12_test_for_the_existence_of_file.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p13_get_directory_listing.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p14_bypassing_filename_encoding.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p15_printing_bad_filenames.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p16_add_change_encoding_of_already_open_file.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p17_write_bytes_to_text_file.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p18_wrap_existing_file_descriptor_as_file_object.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p19_make_temporary_files_and_directories.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p20_communicating_with_serial_ports.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c05/p21_serializing_python_objects.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p01_read_write_csv_data.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p02_read-write_json_data.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p03_parse_simple_xml_data.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p04_parse_huge_xml_files_incrementally.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p05_turning_dictionary_into_xml.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p06_parse_modify_rewrite_xml.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p07_parse_xml_documents_with_namespaces.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p08_interact_with_relational_database.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p09_decode_encode_hexadecimal_digits.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p10_decode_encode_base64.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p11_read_write_binary_arrays_of_structures.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p12_read_nested_and_variable_sized_binary_structures.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c06/p13_summarizing_and_perform_statistics.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p01_functions_that_accept_any_number_arguments.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p02_functions_that_only_accept_keyword_arguments.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p03_attach_informatinal_matadata_to_function_arguments.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p04_return_multiple_values_from_function.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p05_define_functions_with_default_arguments.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p06_define_anonymous_or_inline_functions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p07_capturing_variables_in_anonymous_functions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p08_make_callable_with_fewer_arguments.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p09_replace_single_method_classes_with_functions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p10_carry_extra_state_with_callback_functions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p11_inline_callback_functions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c07/p12_access_variables_defined_inside_closure.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p01_change_string_representation_of_instances.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p02_customizing_string_formatting.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p03_make_objects_support_context_management_protocol.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p04_save_memory_when_create_large_number_instances.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p05_encapsulating_names_in_class.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p06_create_managed_attributes.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p07_calling_method_on_parent_class.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p08_extending_property_in_subclass.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p09_create_new_kind_of_class_or_instance_attribute.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p10_using_lazily_computed_properties.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p11_simplify_initialization_of_data_structure.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p12_define_interface_or_abstract_base_class.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p13_implementing_data_model_or_type_system.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p14_implementing_custom_containers.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p15_delegating_attribute_access.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p16_define_more_than_one_constructor_in_class.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p17_create_instance_without_invoking_init_method.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p18_extending_classes_with_mixins.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p19_implements_stateful_objects_or_state_machines.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p20_call_method_on_object_by_string_name.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p21_implementing_visitor_pattern.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p22_implementing_visitor_pattern_without_recursion.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p23_managing_memory_in_cyclic_data_structures.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p24_making_classes_support_comparison_operations.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c08/p25_creating_cached_instances.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p01_put_wrapper_around_function.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p02_preserve_function_metadata_when_write_decorators.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p03_unwrapping_decorator.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p04_define_decorator_that_takes_arguments.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p05_define_decorator_with_user_adjustable_attributes.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p06_define_decorator_that_takes_optional_argument.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p07_enforcing_type_check_on_function_using_decorator.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p08_define_decorators_as_part_of_class.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p09_define_decorators_as_classes.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p10_apply_decorators_to_class_and_static_methods.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p11_write_decorators_that_add_arguments_to_functions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p12_using_decorators_to_patch_class_definitions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p13_using_mataclass_to_control_instance_creation.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p14_capture_class_attribute_definition_order.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p15_define_metaclass_that_takes_optional_arguments.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p16_enforce_argument_signature_on_args_kwargs.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p17_enforce_coding_conventions_in_classes.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p18_define_classes_programmatically.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p19_initializing_class_members_at_definition_time.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p20_implement_multiple_dispatch_with_function_annotations.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p21_avoid_repetitive_property_methods.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p22_define_context_managers_the_easy_way.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p23_executing_code_with_local_side_effects.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p24_parse_and_analyzing_python_source.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c09/p25_disassembling_python_byte_code.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p01_make_hierarchical_package_of_modules.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p02_control_the_import_of_everything.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p03_import_submodules_by_relative_names.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p04_split_module_into_multiple_files.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p05_separate_directories_import_by_namespace.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p06_reloading_modules.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p07_make_directory_or_zip_runnable_as_main_script.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p08_read_datafile_within_package.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p09_add_directories_to_sys_path.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p10_import_modules_using_name_given_in_string.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p11_load_modules_from_remote_machine_by_hooks.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p12_patching_modules_on_import.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p13_installing_packages_just_for_yourself.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p14_creating_new_python_environment.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c10/p15_distributing_packages.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p01_interact_with_http_services_as_client.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p02_creating_tcp_server.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p03_creating_udp_server.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p04_generate_range_of_ip_addresses_from_cidr_address.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p05_creating_simple_rest_based_interface.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p06_implement_simple_remote_procedure_call_with_xml_rpc.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p07_communicate_simply_between_interpreters.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p08_implementing_remote_procedure_calls.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p09_authenticating_clients_simply.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p10_add_ssl_to_network_services.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p11_pass_socket_file_descriptor_between_processes.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p12_understanding_event_driven_io.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c11/p13_sending_receiving_large_arrays.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p01_start_stop_thread.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p02_determining_if_thread_has_started.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p03_communicating_between_threads.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p04_locking_critical_sections.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p05_locking_with_deadlock_avoidance.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p06_storing_thread_specific_state.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p07_creating_thread_pool.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p08_perform_simple_parallel_programming.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p09_dealing_with_gil_stop_worring_about_it.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p10_defining_an_actor_task.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p11_implement_publish_subscribe_messaging.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p12_using_generators_as_alternative_to_threads.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p13_polling_multiple_thread_queues.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c12/p14_launching_daemon_process_on_unix.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p01_accept_input_via_redirect_pips_or_input_files.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p02_terminate_program_with_an_error_message.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p03_parsing_command_line_options.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p04_prompt_for_password_at_runtime.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p05_getting_terminal_size.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p06_executing_external_command_and_get_its_output.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p07_copy_move_files_and_directories.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p08_creating_and_unpacking_archives.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p09_find_files_by_name.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p10_read_configuration_files.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p11_add_logging_to_simple_scripts.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p12_add_logging_to_libraries.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p13_making_stopwatch_timer.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p14_putting_limits_on_memory_and_cpu_usage.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c13/p15_luanch_a_web_browser.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p01_testing_output_sent_to_stdout.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p02_patching_objects_in_unit_tests.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p03_testing_for_exceptional_conditions_in_unit_tests.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p04_logging_test_output_to_file.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p05_skip_or_anticipate_test_failures.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p06_handle_multiple_exceptions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p07_catching_all_exceptions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p08_creating_custom_exceptions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p09_raise_exception_in_response_to_another_exception.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p10_reraising_the_last_exception.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p11_issuing_warning_messages.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p12_debugging_basic_program_crashes.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p13_profiling_and_timing_your_program.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c14/p14_make_your_program_run_faster.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p01_access_ccode_using_ctypes.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p02_write_simple_c_extension_module.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p03_write_extension_function_operate_on_arrays.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p04_manage_opaque_pointers_in_c_extension_modules.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p05_define_and_export_c_api_from_extension_modules.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p06_calling_python_from_c.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p07_release_the_gil_in_c_extensions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p08_mix_threads_from_c_and_python.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p09_wrap_c_code_with_swig.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p10_wrap_existing_c_code_with_cython.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p11_use_cython_to_write_high_performance_array_operation.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p12_turning_function_pointer_into_callable.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p13_pass_null_terminated_string_to_c_libraries.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p14_pass_unicode_strings_to_c_libraries.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p15_converting_c_string_to_python.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p16_work_with_c_strings_of_dubious_encoding.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p17_pass_filenames_to_c_extensions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p18_pass_open_files_to_c_extensions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p19_read_file_like_objects_from_c.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p20_consuming_an_iterable_from_c.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/c15/p21_diagnosing_segmentation_faults.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p01_data_structures_algorithms.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p02_strings_and_text.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p03_numbers_dates_times.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p04_iterators_and_generators.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p05_files_and_io.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p06_data_encoding_and_process.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p07_functions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p08_classes_and_objects.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p09_meta_programming.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p10_modules_and_packages.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p11_network_and_web_program.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p12_concurrency.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p13_utility_script_and_system_manage.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p14_test_debug_and_exceptions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p15_c_extensions.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/chapters/p16_appendix.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/copyright.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/preface.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/roadmap.rst" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="p03_nitem.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cookbook/c01/p03_nitem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p03_keep_last_n_items.rst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/c01/p03_keep_last_n_items.rst">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1185" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p01_unpack_sequence_into_separate_variables.rst" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/c01/p01_unpack_sequence_into_separate_variables.rst">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cookbook/c01/__init__.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python3-cookbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python3-cookbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python3-cookbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python3-cookbook" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python3-cookbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python3-cookbook" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="c01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python docs.docutils task in p03_keep_last_n_items.rst">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3-cookbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook/c01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/c01/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="p03_nitem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3-cookbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook/c01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/c01/p03_nitem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="docutils task in p03_keep_last_n_items.rst" type="docs" factoryName="Docutils task" temporary="true">
+      <module name="python3-cookbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/c01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="$PROJECT_DIR$/source/c01/p03_keep_last_n_items.rst" />
+      <option name="docutils_output_file" value="$PROJECT_DIR$/source/c01/p03_keep_last_n_items.html" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="rst2html" />
+      <option name="docutils_open_in_browser" value="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.p03_nitem" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python docs.docutils task in p03_keep_last_n_items.rst" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python docs.docutils task in p03_keep_last_n_items.rst" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.p03_nitem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74cb5522-5e05-4266-a176-64018b77bcf9" name="Default" comment="" />
+      <created>1534410640160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534410640160</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32848486" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39915967" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="0" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p03_nitem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/somefile.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p03_nitem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/c01/p01_unpack_sequence_into_separate_variables.rst">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/c01/p03_keep_last_n_items.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1185" />
+      </provider>
+    </entry>
+  </component>
+</project>
