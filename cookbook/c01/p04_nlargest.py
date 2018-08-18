@@ -16,6 +16,7 @@ def main():
         {'name': 'YHOO', 'shares': 45, 'price': 16.35},
         {'name': 'ACME', 'shares': 75, 'price': 115.65}
     ]
+
     cheap = heapq.nsmallest(3, portfolio, key=lambda s: s['price'])
     expensive = heapq.nlargest(3, portfolio, key=lambda s: s['price'])
     print(cheap)

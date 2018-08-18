@@ -12,7 +12,7 @@ def search(lines, pattern, history=5):
     for li in lines:
         if pattern in li:
             yield li, previous_lines
-        previous_lines.append(li)
+            previous_lines.append(li)
 
 # Example use on a file
 if __name__ == '__main__':
