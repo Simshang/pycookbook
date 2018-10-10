@@ -3,9 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="74cb5522-5e05-4266-a176-64018b77bcf9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cookbook/c01/p03_nitem.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p03_nitem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cookbook/c01/p04_nlargest.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p04_nlargest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cookbook/c01/p05_priority_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p05_priority_queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p06_multidict.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p06_multidict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p07_ordered_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p07_ordered_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p08_calculate_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p08_calculate_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookbook/c01/p09_dict_common.py" beforeDir="false" afterPath="$PROJECT_DIR$/cookbook/c01/p09_dict_common.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p05_priority_queue.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cookbook/c01/p05_priority_queue.py">
+      <file leaf-file-name="p09_dict_common.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cookbook/c01/p09_dict_common.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="16" />
+            <state relative-caret-position="594">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -33,10 +38,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cookbook/c01/__init__.py" />
-        <option value="$PROJECT_DIR$/cookbook/c01/p03_nitem.py" />
-        <option value="$PROJECT_DIR$/cookbook/c01/p04_nlargest.py" />
         <option value="$PROJECT_DIR$/cookbook/c01/p05_priority_queue.py" />
+        <option value="$PROJECT_DIR$/cookbook/c01/p04_nlargest.py" />
+        <option value="$PROJECT_DIR$/cookbook/c01/p06_multidict.py" />
+        <option value="$PROJECT_DIR$/cookbook/c01/p03_nitem.py" />
+        <option value="$PROJECT_DIR$/cookbook/c01/p07_ordered_dict.py" />
+        <option value="$PROJECT_DIR$/cookbook/c01/__init__.py" />
+        <option value="$PROJECT_DIR$/cookbook/c01/p08_calculate_dict.py" />
+        <option value="$PROJECT_DIR$/cookbook/c01/p09_dict_common.py" />
       </list>
     </option>
   </component>
@@ -53,13 +62,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="python3-cookbook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python3-cookbook" type="462c0819:PsiDirectoryNode" />
+              <item name="pycookbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycookbook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="python3-cookbook" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python3-cookbook" type="462c0819:PsiDirectoryNode" />
+              <item name="pycookbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycookbook" type="462c0819:PsiDirectoryNode" />
               <item name="cookbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pycookbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pycookbook" type="462c0819:PsiDirectoryNode" />
+              <item name="cookbook" type="462c0819:PsiDirectoryNode" />
+              <item name="c01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,43 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p05_priority_queue">
-    <configuration name="p03_nitem" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3-cookbook" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook/c01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/c01/p03_nitem.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="p04_nlargest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python3-cookbook" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook/c01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/c01/p04_nlargest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.p09_dict_common">
     <configuration name="p05_priority_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python3-cookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,16 +118,92 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="p06_multidict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3-cookbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook/c01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/c01/p06_multidict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="p07_ordered_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3-cookbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook/c01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/c01/p07_ordered_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="p08_calculate_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3-cookbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook/c01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/c01/p08_calculate_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="p09_dict_common" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3-cookbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookbook/c01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookbook/c01/p09_dict_common.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.p03_nitem" />
-      <item itemvalue="Python.p04_nlargest" />
       <item itemvalue="Python.p05_priority_queue" />
+      <item itemvalue="Python.p06_multidict" />
+      <item itemvalue="Python.p07_ordered_dict" />
+      <item itemvalue="Python.p08_calculate_dict" />
+      <item itemvalue="Python.p09_dict_common" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p09_dict_common" />
+        <item itemvalue="Python.p08_calculate_dict" />
+        <item itemvalue="Python.p07_ordered_dict" />
+        <item itemvalue="Python.p06_multidict" />
         <item itemvalue="Python.p05_priority_queue" />
-        <item itemvalue="Python.p04_nlargest" />
-        <item itemvalue="Python.p03_nitem" />
       </list>
     </recent_temporary>
   </component>
@@ -166,13 +221,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19097957" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19062665" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32848486" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3283582" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32969698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -190,21 +245,21 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32969698" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32848486" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3987879" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32969698" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,17 +295,37 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/cookbook/c01/p04_nlargest.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/cookbook/c01/p05_priority_queue.py</url>
           <line>31</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cookbook/c01/p04_nlargest.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cookbook/c01/p06_multidict.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cookbook/c01/p06_multidict.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cookbook/c01/p06_multidict.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cookbook/c01/p08_calculate_dict.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -278,6 +353,41 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p09_dict_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p09_dict_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p09_dict_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p05_priority_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p05_priority_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cookbook/c01/p05_priority_queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -320,26 +430,12 @@
     <entry file="file://$PROJECT_DIR$/cookbook/somefile.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/cookbook/c01/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/c01/p03_keep_last_n_items.rst" />
     <entry file="file://$PROJECT_DIR$/source/c01/p01_unpack_sequence_into_separate_variables.rst" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1745073881/_collections.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="194" column="8" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cookbook/c01/p03_nitem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -352,15 +448,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cookbook/c01/p04_nlargest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="522">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cookbook/c01/p05_priority_queue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="16" />
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p06_multidict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p03_nitem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p07_ordered_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p08_calculate_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/c01/p09_dict_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
         </state>
       </provider>
     </entry>

@@ -23,10 +23,12 @@ def dict_commonality():
     print(a.keys() & b.keys())  # { 'x', 'y' }
     # Find keys in a that are not in b
     print(a.keys() - b.keys())  # { 'z' }
+
     # Find (key,value) pairs in common
     print(a.items() & b.items())  # { ('y', 2) }
 
     print(type(a.items()))
+    print(a.items())
 
     for a, b in a.items():
         print(a, b)

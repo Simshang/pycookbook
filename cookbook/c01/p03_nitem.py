@@ -20,6 +20,7 @@ if __name__ == '__main__':
         for line, prevlines in search(f, 'Python', 5):
             for pline in prevlines:
                 print(pline, end='')
+
             print(line, end='')
             print('-' * 20)
 

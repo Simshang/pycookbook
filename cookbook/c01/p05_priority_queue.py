@@ -4,8 +4,8 @@
 Topic: 优先级队列
 Desc : 
 """
-import heapq
 
+import heapq
 
 class PriorityQueue:
     def __init__(self):
@@ -31,6 +31,9 @@ q.push(Item('foo'), 1)
 q.push(Item('bar'), 5)
 q.push(Item('spam'), 4)
 q.push(Item('grok'), 1)
+print (q.pop())
+print (q.pop())
+print (q.pop())
 print (q.pop())
 
 
